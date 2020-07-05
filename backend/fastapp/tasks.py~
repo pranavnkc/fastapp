@@ -1,0 +1,2 @@
+from .celery import app
+def send_mail()
